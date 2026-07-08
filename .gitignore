@@ -1,0 +1,16 @@
+# ビルド出力フォルダーの除外
+*.build/
+*.dist/
+*.onefile-build/
+
+# 個別に指定したい場合（フォルダー名を直接書く場合）
+# FlightStreamAssistantGUI.build/
+# FlightStreamAssistantGUI.dist/
+# FlightStreamAssistantGUI.onefile-build/
+
+# 設定・メモリーファイルの除外
+flight_stream_assistant_memory.json
+flight_stream_assistant_settings.json
+
+# （任意）もしすべてのJSONを除外したい場合
+# *.json
