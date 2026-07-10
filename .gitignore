@@ -2,7 +2,7 @@
 *.build/
 *.dist/
 *.onefile-build/
-
+studio_chat_webview_data/
 # 個別に指定したい場合（フォルダー名を直接書く場合）
 # FlightStreamAssistantGUI.build/
 # FlightStreamAssistantGUI.dist/
